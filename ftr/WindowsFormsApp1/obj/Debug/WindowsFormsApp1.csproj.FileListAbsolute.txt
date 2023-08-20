@@ -1,0 +1,16 @@
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmYeniKayit.resources
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.giris.resources
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ayarlar.resources
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sifre.resources
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kayitol.resources
+C:\Users\emndg\Desktop\C_fin\ftr\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SplashScreen.resources
